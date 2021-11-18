@@ -21,7 +21,7 @@
 4. Vá até https://github.com/4stacks/desafios e clique nos botões **Watch**->**(All Activity)** / **Star** / **Fork** como na imagem
 ![image](https://user-images.githubusercontent.com/65529335/142348082-6cfecbe6-767a-41ed-82a9-095bbb745078.png)
 
-5. E finalmente, `git clone https://github.com/4stacks/desafios.git` e
+5. E finalmente, `git clone https://github.com/4stacks/desafios.git`, adicione seu projeto na seção **Hall of Fame** e o `git push`
 
 ## Hall of Fame (Desafios /  Projetos)
 ### _Aqui estão os links dos repos que enviaram seus desafios_
